@@ -10,5 +10,5 @@ More To Come!
 # Instinct-Pack Lagacy
 Resource Pack For Minecraft Server
 
-# SNC Discord
+# Our Discord
 https://discord.gg/bV9CrPB
